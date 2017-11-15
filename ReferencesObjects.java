@@ -4,6 +4,6 @@ public class ReferencesObjects
 	
 	public ReferencesObjects()
 	{
-		SimpleObject simple = new SimpleObject();
+		this.simple = new SimpleObject();
 	}
 }
